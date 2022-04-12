@@ -232,10 +232,10 @@ opacity: 1;
 }
 
 .navbar .dropdown-menu #helper-noborder1::before{
-border-bottom: 0px;
+margin-bottom: 0px;
 }
 .navbar .dropdown-menu #helper-noborder2::before{
-border-top: 0px;
+margin-top: 0px;
 }
 
 
